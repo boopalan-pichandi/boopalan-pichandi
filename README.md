@@ -7,7 +7,7 @@ Devops Engineer | Full Stack Developer | Hawk Monk Finacial Technologies
 *   🌍  I'm based in Coimbatore, Tamil Nadu
 *   ✉️  You can contact me at [boopalan.pichandi@hawkmonk.tech](mailto:boopalan.pichandi@hawkmonk.tech)
 *   🚀  I'm currently working on [Hawk Monk Financial Technologies](https://hawkmonk.tech)
-*   🧠  I'm learning Python 🐍 | Dev(Sec)Ops ♾️ | Docker 🐳 | Kubernetes ☸ | Jenkins 🛠️ | AWS ☁️ | Terraform 🏗️ | Azure | Linux 🐧| Grafana etc.,
+*   🧠  I'm learning Python 🐍 | MOJO 🔥| Dev(Sec)Ops ♾️ | Docker 🐳 | Kubernetes ☸ | Jenkins 🛠️ | AWS ☁️ | Azure | GCP |Terraform 🏗️  Linux 🐧| Grafana etc.,
 *   🤝  I'm open to collaborating on Portable Cluster in Raspberry-PI, AI-Data Analysis, Data Science , Algo Trading , Dev-Sec-Ops 
   
 ### Socials
@@ -17,14 +17,11 @@ Devops Engineer | Full Stack Developer | Hawk Monk Finacial Technologies
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/boopalanpichandi"><img src="https://github-readme-stats.vercel.app/api?username=boopalanpichandi&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boopalanpichandi's GitHub stats" /></a>
+<a href="http://www.github.com/boopalan-pichandi"><img src="https://github-readme-stats.vercel.app/api?username=boopalanpichandi&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="boopalanpichandi's GitHub stats" /></a>
 
-<a href="http://www.github.com/boopalanpichandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boopalanpichandi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/boopalan-pichandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boopalanpichandi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/boopalanpichandi"><img src="https://activity-graph.herokuapp.com/graph?username=boopalanpichandi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/boopalan-pichandi"><img src="https://activity-graph.herokuapp.com/graph?username=boopalanpichandi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/boopalanpichandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopalanpichandi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/boopalan-pichandi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopalanpichandi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/boopalanpichandi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
